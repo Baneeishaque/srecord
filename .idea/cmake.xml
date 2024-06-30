@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Default-Scoop MSYS2 MinGW with CMake &amp; GDB" ENABLED="true" TOOLCHAIN_NAME="Scoop MSYS2 MinGW with CMake &amp; GDB" NO_GENERATOR="true" />
+    </configurations>
+  </component>
+</project>
