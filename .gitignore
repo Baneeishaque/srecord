@@ -72,7 +72,7 @@ m4/lt~obsolete.m4
 *.lib
 
 # Executables
-*.exe
+# *.exe
 *.out
 *.app
 
