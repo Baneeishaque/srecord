@@ -81,3 +81,5 @@ m4/lt~obsolete.m4
 
 # clangd
 .cache/*
+
+/output_files/hello_world.intel_bin
