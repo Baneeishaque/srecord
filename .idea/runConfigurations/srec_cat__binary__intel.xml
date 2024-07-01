@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="srec_cat -binary -intel" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../../sample_files/hello_world.txt -binary -o ../../output_files/hello_world.intel_bin -intel" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="srecord" TARGET_NAME="srec_cat" CONFIG_NAME="Default-System" RUN_TARGET_PROJECT_NAME="srecord" RUN_TARGET_NAME="srec_cat">
+  <configuration default="false" name="srec_cat -binary -intel" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../../sample_files/hello_world.txt -binary -o ../../output_files/hello_world.intel_bin -intel" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="srecord" TARGET_NAME="srec_cat" CONFIG_NAME="Default-Scoop MSYS2 MinGW with CMake &amp; GDB" RUN_TARGET_PROJECT_NAME="srecord" RUN_TARGET_NAME="srec_cat">
     <method v="2">
       <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
     </method>
