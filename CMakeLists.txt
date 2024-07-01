@@ -18,7 +18,7 @@
 
 cmake_minimum_required(VERSION 3.22)
 project(srecord VERSION "1.65")
-set(CMAKE_BUILD_TYPE Release)
+set(CMAKE_BUILD_TYPE Debug)
 
 # Generate compile_commands.json for use by RTags, clang tools etc.
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
